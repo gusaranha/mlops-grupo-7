@@ -1,0 +1,31 @@
+﻿id,texto_relato,natureza
+1,Comunicante relata que teve o celular subtraído sem uso de violência enquanto aguardava em uma parada de ônibus.,Furto
+2,Vítima informa que foi abordada por um indivíduo que anunciou o assalto e levou sua carteira e aparelho celular.,Roubo
+3,Comunicante recebeu mensagem falsa informando problema em sua conta bancária e realizou transferência para conta desconhecida.,Estelionato
+4,"Morador relata que, durante a madrugada, desconhecidos entraram em sua residência e levaram um notebook e outros objetos.",Furto
+5,"Vítima informa que deixou o veículo estacionado em via pública e, ao retornar, constatou o desaparecimento do automóvel.",Furto de veículo
+6,"Comunicante relata que seu veículo foi danificado enquanto estava estacionado, apresentando riscos na pintura e quebra de um retrovisor.",Dano
+7,Vítima relata ter sido ameaçada verbalmente por um conhecido após uma discussão ocorrida em frente à sua residência.,Ameaça
+8,"Comunicante informa que foi agredido durante uma discussão em um estabelecimento comercial, sofrendo lesões leves.",Lesão corporal
+9,Proprietário relata que encontrou a porta de seu comércio arrombada e percebeu a falta de dinheiro e mercadorias.,Furto
+10,Vítima anunciou um produto em plataforma de vendas e recebeu comprovante de pagamento falso enviado pelo suposto comprador.,Estelionato
+11,Comunicante relata que teve sua bicicleta levada enquanto estava presa a um suporte próximo a uma praça pública.,Furto
+12,Vítima informa que dois indivíduos a abordaram na rua e levaram sua bolsa contendo documentos e objetos pessoais.,Roubo
+13,"Morador relata som em volume excessivo vindo de imóvel vizinho durante a madrugada, causando perturbação na região.",Perturbação do sossego
+14,Comunicante informa que encontrou pichações recentes no muro de seu estabelecimento comercial.,Dano
+15,Vítima relata ter recebido ligações de pessoa desconhecida exigindo pagamento e fazendo ameaças caso não realizasse a transferência.,Extorsão
+16,Comunicante informa que seus documentos pessoais foram utilizados por terceiro para realizar cadastro e compras sem autorização.,Estelionato
+17,Vítima relata que objetos deixados no interior de seu veículo foram subtraídos após violação de uma das portas.,Furto
+18,Comunicante informa que uma motocicleta estacionada em frente à residência desapareceu durante o período noturno.,Furto de veículo
+19,"Vítima relata que foi seguida e importunada repetidamente por uma pessoa conhecida, inclusive nas proximidades de seu trabalho.",Perseguição
+20,Comunicante informa que recebeu ofensas e acusações falsas publicadas contra ele em uma rede social.,Crime contra a honra
+21,"Proprietário relata que indivíduo entrou em seu estabelecimento, anunciou um assalto e levou dinheiro do caixa.",Roubo
+22,"Vítima informa que realizou pagamento por um produto anunciado na internet, mas a mercadoria nunca foi entregue e o vendedor deixou de responder.",Estelionato
+23,Comunicante relata que encontrou a janela de sua residência danificada após desentendimento com um vizinho.,Dano
+24,Vítima informa que seu cartão bancário foi utilizado em diversas compras que não reconhece.,Estelionato
+25,Comunicante relata discussão no trânsito seguida de agressão física entre os envolvidos.,Lesão corporal
+26,Vítima informa que teve sua mochila subtraída enquanto estava em um evento com grande concentração de pessoas.,Furto
+27,Comunicante relata que recebeu mensagens insistentes e ameaçadoras de uma pessoa com quem havia discutido anteriormente.,Ameaça
+28,Proprietário informa que câmeras registraram pessoa desconhecida retirando mercadorias da área externa de sua loja sem efetuar pagamento.,Furto
+29,Vítima relata que foi convencida por falso atendente bancário a fornecer informações e posteriormente identificou movimentações financeiras indevidas.,Estelionato
+30,Comunicante informa que foi abordado ao chegar em casa e teve seu veículo levado pelos autores da ocorrência.,Roubo de veículo
